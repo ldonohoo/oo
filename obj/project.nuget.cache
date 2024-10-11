@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "89HIK01MYAy+EaqtYZeolSxvuO49p4qGgilZ4Bi1rCoofZ/tchfPdvS3eZaGW/1EoFqLwdK5Ngrqjb1iHqRWiA==",
+  "dgSpecHash": "Sx6EgqIYIDA=",
   "success": true,
   "projectFilePath": "/Users/lisa/Documents/code/csharp/oo/oo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/lisa/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/lisa/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/lisa/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.20/microsoft.netcore.app.host.osx-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
